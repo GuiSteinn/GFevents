@@ -1,0 +1,11 @@
+h1{
+    color: red;
+}
+
+* {
+   font-family: 'Roboto', sans-serif;
+}
+
+#navbar img{
+   width: 50px;
+}
