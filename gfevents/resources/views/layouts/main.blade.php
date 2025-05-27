@@ -28,7 +28,7 @@
                 <a href="/" class="nav-link">Eventos</a>
               </li>
               <li class="nav-item">
-                <a href="/" class="nav-link">Criar Eventos</a>
+                <a href="/events/create" class="nav-link">Criar Eventos</a>
               </li>
               <li class="nav-item">
                 <a href="/" class="nav-link">Entrar</a>
@@ -40,10 +40,10 @@
           </div>
         </nav>
       </header>
-      @yield('content')
      @yield('content')
     <footer>
         <p>GFevents &copy; 2025</p>
     </footer>
+    <script src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script> 
     </body>
 </html>
